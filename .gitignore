@@ -1,0 +1,4 @@
+etc/
+OpenCVConfig.cmake
+OpenCVConfig-version.cmake
+setup_vars_opencv4.cmd
